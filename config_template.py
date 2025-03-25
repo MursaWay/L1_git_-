@@ -1,0 +1,1 @@
+MY_FIO = "Papados Vkidov Vasya"
